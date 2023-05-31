@@ -1,12 +1,15 @@
-## Hi there 👋
+# Repository Moved
 
-<!--
+Hello! 👋 
 
-**Here are some ideas to get you started:**
+Thank you for your interest in our project. We are glad to inform you that this repository has been moved to a new location.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+You can find the current and active version of the project at the following URL: 
+
+🔗 [https://github.com/HASKI-RAK/](https://github.com/HASKI-RAK/)
+
+We are continually working on improving and expanding our project, so we appreciate your ongoing support and understanding.
+
+Looking forward to seeing you in our new home! 
+
+Happy coding! 🚀
